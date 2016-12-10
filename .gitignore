@@ -2,3 +2,6 @@ build/
 build.xml
 manifest.mf
 nbproject/
+
+.git
+.DS_Store
